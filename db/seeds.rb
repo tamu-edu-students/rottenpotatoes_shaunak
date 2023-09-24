@@ -17,10 +17,10 @@ more_movies = [
       :release_date => '19-Feb-2021'},
     {:title => 'CODA', :rating => 'PG-13',
       :release_date => '13-Aug-2021'},
-    {:title => 'Pirates of the Carribean: Curse of the black pearl', :rating => 'PG',
+    {:title => 'Pirates of the Carribean: Curse of the black pearl', :rating => 'PG-13',
       :release_date => '28-June-2003'},
     {:title => 'The Prestige', :rating => 'R',
-      :release_date => '20-Oct-2006'}
+      :release_date => '20-Oct-2006'},
   ]
   
   more_movies.each do |movie|
